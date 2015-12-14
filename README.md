@@ -1,3 +1,3 @@
-# LudumDare34-GROW
+# Grow Christmas
 
-An entry to Ludum Dare Compo. Javascript, original art, music and sounds. 
+An <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=58943">entry to Ludum Dare Compo</a>. Two themes: "growing" and "2 button controls". Javascript, original art, music and sounds. 
